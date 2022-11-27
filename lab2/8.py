@@ -1,0 +1,2 @@
+cash = float(input())
+
